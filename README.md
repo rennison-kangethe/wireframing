@@ -71,3 +71,12 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - Ensures that wireframes don’t just look like layouts but support what the system does.
 - Helps identify which components need to be built, what states they may have (hover, disabled, active).
 - Bridges design and development by linking UI to system behaviour.
+
+## Types of Wireframes
+
+- **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## Figma Design explanation
+
+The figma design provided is a high fidelity wireframe. This is beacuse it contains visual markers and branding signifiers like colors, graphics, and font style. The UI elements look realistic.
