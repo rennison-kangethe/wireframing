@@ -80,3 +80,35 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ## Figma Design explanation
 
 The figma design provided is a high fidelity wireframe. This is beacuse it contains visual markers and branding signifiers like colors, graphics, and font style. The UI elements look realistic.
+
+## Popular Wireframing Tools
+
+When preparing wireframes, there are several design tools available that cater to different levels of fidelity, collaboration needs and workflows. Below are some commonly used tools:
+
+- **Figma:** Browser-based, collaborative, and robust for wireframing through to interactive prototypes.
+- **Adobe XD:** Offers wireframing, prototyping and design features in one tool.
+- **Balsamiq Mockups:** Great for very low-fidelity, sketch-style wireframes.
+- **Miro:** Online collaborative whiteboard tool with wireframe features, great for team ideation and flows.
+
+## Why Figma is Recommended
+
+Figma stands out as a recommended tool for wireframing for several reasons:
+
+- **Real-time collaboration:** Multiple team members (designers, developers, stakeholders) can view and edit the wireframe at the same time.
+- **Web-based with no installation required:** You can start in the browser, making it accessible across platforms.
+- **Pre-built wireframe kits and templates:** Figma offers templates and components for rapid wireframe creation (placeholders, navigation bars, etc.).
+- **Supports prototyping and transitions:** You can link frames, define interactions, and test user flows, not just static layouts.
+- **Iteration friendly:** Because you can start with low-fidelity and gradually build up, Figma supports the design process from skeleton wireframe to detailed UI
+
+## Brief Overview of Key Figma Features
+
+- Frames and artboards: define the screens/layouts for web or mobile.
+- Drag-and-drop shapes/placeholders: speed up wireframing with minimal styling.
+- Component libraries and assets: reuse UI elements consistently.
+- Prototype tab: connect frames to simulate navigation and user flows.
+- Sharing and commenting: easy to get feedback and iterate quickly.
+- Cloud storage and versioning: manage design history and collaboration.
+
+## Why It’s Useful for Wireframing
+
+Using Figma for your wireframes brings your team into the loop early, aligns everyone on structure and functionality, and gives you a flexible starting point. Because you’re not locked into visual polish from the start, you can focus on layout, navigation, content placement and functionality (the key elements of wireframing) — then evolve towards visuals once the foundation is solid. This aligns well with effective requirement analysis and UI/UX workflow
