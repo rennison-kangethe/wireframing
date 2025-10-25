@@ -37,3 +37,37 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 8. **Focuses on Functionality and User Experience:**
 
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+## Key Elements in a Wireframe
+
+1. **Layout Structure:** Defines the arrangement of elements on the page.
+
+**Contribution to the design:**
+
+- Establishes visual hierarchy: what the user sees first, what is secondary.
+- Ensures consistency across screens/pages (so users don’t feel lost when moving around).
+- Enables responsive behaviour: you can plan how things shift on mobile vs desktop.
+
+2. **Navigation:** Shows how users will move through the site or application.
+
+**Contribution to the design:**
+
+- Helps users understand where they are, and how to get to where they want to go.
+- Reduces friction and confusion in the user journey.
+- Encourages exploration and conversion (users can find listings, view details, book).
+
+3. **Content Placement:** Indicates where text, images, and other content will be positioned.
+
+**Contribution to the design:**
+
+- Ensures important content (price, rating, booking button) is placed where users look first.
+- Helps developers and designers understand space allocation before styling begins.
+- Improves readability and scanning: users often skim, so placement matters.
+
+4. **Functionality:** Outlines key functionalities and interactions.
+
+**Contribution to the design:**
+
+- Ensures that wireframes don’t just look like layouts but support what the system does.
+- Helps identify which components need to be built, what states they may have (hover, disabled, active).
+- Bridges design and development by linking UI to system behaviour.
