@@ -112,3 +112,14 @@ Figma stands out as a recommended tool for wireframing for several reasons:
 ## Why It’s Useful for Wireframing
 
 Using Figma for your wireframes brings your team into the loop early, aligns everyone on structure and functionality, and gives you a flexible starting point. Because you’re not locked into visual polish from the start, you can focus on layout, navigation, content placement and functionality (the key elements of wireframing) — then evolve towards visuals once the foundation is solid. This aligns well with effective requirement analysis and UI/UX workflow
+
+## Benefits of Wireframing in Software Development
+
+Wireframes play a key role in the software development lifecycle by bridging the gap between idea and implementation. Below are some of the major benefits, explained within the context of how they help guide design and facilitate team communication.
+
+- **Provides clarity and alignment**
+  Wireframes act like a blueprint of the interface: they visualise structure, layout, navigation and functionality early. This helps ensure everyone (designers, developers, stakeholders) shares the same understanding before detailed design or coding begins.
+  **Example**: Before building the booking system for the app, the team uses wireframes to agree on where the search bar, filters and property cards go. This prevents mis-understandings such as a developer implementing a layout that doesn’t match the designer’s mental model.
+- **Helps identify usability and functional issues early**
+  By sketching the interface structure and how screens connect (rather than diving straight into visuals or code), wireframes help find flaws in navigation, content placement or interaction flows before expensive development begins.
+  **Example:** The wireframe reveals that on mobile, the search filters sidebar would push property cards too far down the page. The team adjusts the layout for mobile early, avoiding a redesign later in implementation.
