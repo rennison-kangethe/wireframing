@@ -126,3 +126,21 @@ Wireframes play a key role in the software development lifecycle by bridging the
   By sketching the interface structure and how screens connect (rather than diving straight into visuals or code), wireframes help find flaws in navigation, content placement or interaction flows before expensive development begins.
 
   **Example:** The wireframe reveals that on mobile, the search filters sidebar would push property cards too far down the page. The team adjusts the layout for mobile early, avoiding a redesign later in implementation.
+
+  ## Wireframing in Practice
+
+  During the development of the Empower Her mobile app, wireframing played a key role in refining the experience of the homepage and mentor screen before development began.
+
+  ## Scenario & Issues
+
+  On the initial homepage wireframe, the primary “Find a Mentor” CTA was buried below large imagery—users missed it. On the mentor screen, listings were in a simple vertical list and filtering options were hidden, making it difficult for users to browse efficiently.
+
+## Iterative Refinement
+
+- The homepage was updated so the “Find a Mentor” CTA is placed above the hero image, improving visibility and reducing perceived scroll.
+- The mentor screen was redesigned to use a card grid layout (on larger screens) or list on mobile, and filters were made more visible (sidebar/collapsible drawer).
+- Navigation was improved with a bottom tab “Mentors” and a clear “Home” icon to streamline moving between screens.
+
+## Impact
+
+These early wireframe changes improved user clarity and flow: fewer users reported confusion when initiating sessions, and the development team could move forward with a validated structure—reducing rework and speeding up implementation.
